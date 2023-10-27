@@ -1,0 +1,35 @@
+.collection{
+	margin-top:100px;
+}
+
+
+.collectionTitle{
+	margin-left: 200px;
+	color: #A61212;
+}
+
+.collectionImage {
+	float: left;
+    width:  320px;
+    height: 320px;
+    object-fit: cover;
+    -webkit-box-shadow: rgba(0,0,0,0.3) 0px 0 10px;
+ 	-moz-box-shadow: rgba(0,0,0,0.3) 0 0 10px;
+ 	box-shadow: rgba(0,0,0,0.3) 0 0 10px;
+ 	margin-left: 150px;
+}
+
+.card{
+	background-color: #F5F5FF;
+ 	padding-top: 50px;
+ 	padding-bottom: 50px;
+ 	-webkit-border-radius: 10px;
+ 	-moz-border-radius: 10px;
+	border-radius: 10px;
+ 	-webkit-box-shadow: rgba(0,0,0,0.3) 0px 0 10px;
+ 	-moz-box-shadow: rgba(0,0,0,0.3) 0 0 10px;
+ 	box-shadow: rgba(0,0,0,0.3) 0 0 10px;
+ 	width: 700px; 
+ 	margin: 40px auto;
+}
+

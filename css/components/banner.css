@@ -1,0 +1,35 @@
+.banner{   
+	height: 500px;
+	background-image: url("../../images/bane.jpg");
+	background-size: cover;     
+	background-position: center;
+	color: white;
+	padding-top: 160px;
+}
+
+#bannerTitle{
+	font-size: 50px;
+	text-align: center;
+}
+
+#bannerMediumTitle{
+	font-size: 30px;
+	text-align: center;
+	font-weight: lighter;
+}
+button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	background-color: #5862DA;
+	color: white;
+	border-radius: 5px;
+	padding: 20px 30px 20px 30px;
+	font-size: 1em;
+	opacity: 0.6;
+}
+
+button:hover{
+	opacity: 1;
+}

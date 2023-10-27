@@ -1,0 +1,7 @@
+@import url("components/logo.css");
+@import url("components/banner.css");
+@import url("components/collection.css");
+
+body{
+	background-color: #F5F5FF;
+}
